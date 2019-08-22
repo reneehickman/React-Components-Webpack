@@ -133,7 +133,7 @@ module.exports = {
 ##
 ###
 
-5. Create a `.babelrc` file in the project directory wehere we just created the webpack config. Add in the following:
+5. Create a `.babelrc` file in the project directory where we just created the webpack config. Add in the following:
 
 ```json
 {     "presets": ["@babel/preset-env", "@babel/preset-react"] }
@@ -199,7 +199,7 @@ module.exports = {
 ##
 ###
 
-9. `npm start` Your app should compile and run successfully. Now we are ready to build.
+9. `npm start`. Your app should compile and run successfully. Now we are ready to build.
 ###
 ##
 ###
