@@ -1,4 +1,4 @@
-## Setting up Webpack for unminified build of React-Components
+## Setting up Webpack Config for unminified build of React-Components
 ###
 
 1. In the project src directory remove the `serviceWorker.js` and `logo.svg` files. We can also remove the entire `./src/public` directory.
